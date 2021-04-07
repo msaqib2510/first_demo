@@ -1,21 +1,12 @@
-<!DOCTYPE html>
 <html>
-<head>
-<title>Thanking You</title>
-</head>
-<body style="background-color:lightgreen;">
-<center><h1 style="color:blue;"><b>Thanks for joining today's LLT session</b></h1></center>
-<br><br><br><br>
-<h1><big><b><center>Q & A Session</center></b></big></p></h1><br><br>
-
-
-<h3 style="color:green">Build trigger remotely</h3>
-<a href=http://3.20.234.114:8080/view/First_Demo/job/package_app1/build?token=saqib>1.> Triggering build for Package_App1<a>
-<br><a href=http://3.20.234.114:8080/job/first_demo/build?token=saqib>2.> Trigger first_demo</a>
-
-<h3 style="text-align:right;margin:100px 100px;" ><i style="background-color:yellow">Presented by</i></h3>
-<h3 style="text-align:right;margin:-100px 30px"><b style="background-color:yellow">DevOps and Automation Track</b></h3>
-<h5 style="text-align:right;margin:100px 110px"><b style="background-color:yellow">09-April-2021</b></h5>
+<body style="background-color:lightseagreen;">
+<h1 style="color:red;background-color:rgb(0, 225, 255)"><center>Hello Everyone</center></h1>
+<h1 style="color:blue"><center>Welcome to DevOps and Automation session</center></h1>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<h3><center><i style="color:green" >Presented by</i></center></h3>
+<h3><b style="color:green" ><center>DevOps and Automation Track</center></b></h3>
+<h5><b style="color:green" ><center>09-April-2021</center></b></h5>
 
 </body>
 </html>
