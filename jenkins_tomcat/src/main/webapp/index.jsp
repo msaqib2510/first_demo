@@ -6,7 +6,7 @@
 <body style="background-color:lightgreen;">
 <center><h1 style="color:blue;"><b>Thanks for joining today's LLT session</b></h1></center>
 
-<img src="C:\Users\saqib\Desktop\Capture2.PNG" alt="Smiley face" width="1330" height="310" >
+<img src="C:\Users\saqib\Desktop\Capture2.PNG" alt="Smiley face" width="1000" height="310" >
 
 <h3 style="color:green">Build trigger remotely</h3>
 <a href=http://3.20.234.114:8080/view/First_Demo/job/package_app1/build?token=saqib>1.> Triggering build for Package_App1<a>
